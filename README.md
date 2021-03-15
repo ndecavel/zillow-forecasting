@@ -1,6 +1,10 @@
 ![title](images/zillow_logo.png)
 # Zillow Forecasting
 
+_____
+**About Me:**
+<br> Hi everyone! First of all, welcome to my github. My name is Nicolas Decacvel-Bueff and I am a current Masters of Data Science student at The University of San Francisco and will be graduating in August of 2021! 
+
 ________
 ###  Project Description <a id='proj_desc'></a>
 ##### Data Description:
